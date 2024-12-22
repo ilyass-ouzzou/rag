@@ -13,8 +13,8 @@ Les encadrants :
 Les membres :
 --------------
 
-    - **Membre 1**: Nassira Nguadi |linkedin_Nassira|
+    - **Membre 1**: ilyass ouzzou |linkedin_Nassira|
 .. |linkedin_Nassira| image:: ../Images/LinkedIn_Logo.jpeg
     :width: 16
     :height: 16
-    :target: https://www.linkedin.com/in/nassira-nguadi-41b6a4275/
+    :target: https://www.linkedin.com/in/ilyass-ouzzou-41512819a/
